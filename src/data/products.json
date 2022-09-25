@@ -1,0 +1,161 @@
+{
+    "products": [
+    {
+        "id": 1,
+        "name": "Blueberries",
+        "slug": "blueberries",
+        "price": 7,
+        "inStock": true,
+        "image": "/images/blueberries.jpeg",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Tenetur adipisci molestias saepe, et odit quos laboriosam perferendis earum! Ipsam doloribus praesentium vero blanditiis nemo ad ex tenetur eos beatae officiis!"
+    },
+    {
+        "id": 2,
+        "name": "Audi",
+        "slug": "audi",
+        "price": 2000,
+        "oldPrice": 3000,
+        "inStock": true,
+        "image": "/images/audi.jpeg",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Tenetur adipisci molestias saepe, et odit quos laboriosam perferendis earum! Ipsam doloribus praesentium vero blanditiis nemo ad ex tenetur eos beatae officiis!"
+    },
+    {
+        "id": 3,
+        "name": "Easter",
+        "slug": "easter",
+        "price": 17,
+        "oldPrice": 52,
+        "inStock": false,
+        "image": "/images/easter.jpeg",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Tenetur adipisci molestias saepe, et odit quos laboriosam perferendis earum! Ipsam doloribus praesentium vero blanditiis nemo ad ex tenetur eos beatae officiis!"
+    },
+    {
+        "id": 4,
+        "name": "Apples",
+        "slug": "apples",
+        "price": 3,
+        "oldPrice": 5,
+        "inStock": true,
+        "image": "/images/apples.jpeg",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Tenetur adipisci molestias saepe, et odit quos laboriosam perferendis earum! Ipsam doloribus praesentium vero blanditiis nemo ad ex tenetur eos beatae officiis!"
+    },
+    {
+        "id": 5,
+        "name": "Hazelnut",
+        "slug": "hazelnut",
+        "price": 22,
+        "oldPrice": 34,
+        "inStock": true,
+        "image":"/images/hazelnut.jpeg",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Tenetur adipisci molestias saepe, et odit quos laboriosam perferendis earum! Ipsam doloribus praesentium vero blanditiis nemo ad ex tenetur eos beatae officiis!"
+    },
+    {
+        "id": 6,
+        "name": "Laptop",
+        "slug": "laptop",
+        "price": 55,
+        "oldPrice": 67,
+        "inStock": true,
+        "image": "/images/laptops.jpeg",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Tenetur adipisci molestias saepe, et odit quos laboriosam perferendis earum! Ipsam doloribus praesentium vero blanditiis nemo ad ex tenetur eos beatae officiis!"
+    },
+    {
+        "id": 7,
+        "name": "Pencils",
+        "slug": "pencils",
+        "price": 15,
+        "inStock": true,
+        "image":"/images/pencils.jpeg",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Tenetur adipisci molestias saepe, et odit quos laboriosam perferendis earum! Ipsam doloribus praesentium vero blanditiis nemo ad ex tenetur eos beatae officiis!"
+    },
+    {
+        "id": 8,
+        "name": "Violin",
+        "slug": "violin",
+        "price": 122,
+        "oldPrice": 133,
+        "inStock": true,
+        "image": "/images/violin.jpeg",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Tenetur adipisci molestias saepe, et odit quos laboriosam perferendis earum! Ipsam doloribus praesentium vero blanditiis nemo ad ex tenetur eos beatae officiis!"
+    },
+    {
+        "id": 9,
+        "name": "Wine",
+        "slug": "wine",
+        "price": 44,
+        "oldPrice": 51,
+        "inStock": true,
+        "image": "/images/wine.jpeg",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Tenetur adipisci molestias saepe, et odit quos laboriosam perferendis earum! Ipsam doloribus praesentium vero blanditiis nemo ad ex tenetur eos beatae officiis!"
+    },
+    {
+        "id": 10,
+        "name": "Dogs",
+        "slug": "dogs",
+        "price": 200,
+        "oldPrice": 150,
+        "inStock": true,
+        "image":"/images/dogs.jpeg",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Tenetur adipisci molestias saepe, et odit quos laboriosam perferendis earum! Ipsam doloribus praesentium vero blanditiis nemo ad ex tenetur eos beatae officiis!"
+    },
+    {
+        "id": 11,
+        "name": "Kettles",
+        "slug": "kettles",
+        "price": 390,
+        "oldPrice": 450,
+        "inStock": false,
+        "image":"/images/kettles.jpeg",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Tenetur adipisci molestias saepe, et odit quos laboriosam perferendis earum! Ipsam doloribus praesentium vero blanditiis nemo ad ex tenetur eos beatae officiis!"
+    },
+    {
+        "id": 12,
+        "name": "Watches",
+        "slug": "watches",
+        "price": 500,
+        "oldPrice": 590,
+        "inStock": true,
+        "image":"/images/watches.jpeg",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Tenetur adipisci molestias saepe, et odit quos laboriosam perferendis earum! Ipsam doloribus praesentium vero blanditiis nemo ad ex tenetur eos beatae officiis!"
+    },
+    {
+        "id": 13,
+        "name": "Shoes",
+        "slug": "shoes",
+        "price":1900,
+        "oldPrice": 2000,
+        "inStock": true,
+        "image":"/images/shoes.jpeg",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Tenetur adipisci molestias saepe, et odit quos laboriosam perferendis earum! Ipsam doloribus praesentium vero blanditiis nemo ad ex tenetur eos beatae officiis!"
+    },
+    {
+        "id": 14,
+        "name": "Prada",
+        "slug": "prada",
+        "price":5900,
+        "oldPrice": 6000,
+        "inStock": true,
+        "image":"/images/prada.jpeg",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Tenetur adipisci molestias saepe, et odit quos laboriosam perferendis earum! Ipsam doloribus praesentium vero blanditiis nemo ad ex tenetur eos beatae officiis!"
+    },
+    {
+        "id": 15,
+        "name": "Snikers",
+        "slug": "snikers",
+        "price":500,
+        "inStock": true,
+        "image":"/images/snikers.jpeg",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Tenetur adipisci molestias saepe, et odit quos laboriosam perferendis earum! Ipsam doloribus praesentium vero blanditiis nemo ad ex tenetur eos beatae officiis!"
+    },
+    {
+        "id": 16,
+        "name": "Cosmetics",
+        "slug": "cosmetics",
+        "price":300,
+        "oldPrice": 400,
+        "inStock": true,
+        "image":"/images/cosmetics.jpeg",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Tenetur adipisci molestias saepe, et odit quos laboriosam perferendis earum! Ipsam doloribus praesentium vero blanditiis nemo ad ex tenetur eos beatae officiis!"
+    }
+]
+}

@@ -1,0 +1,99 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  font-weight: 500;
+}
+
+.slide-left-enter-active,
+.slide-left-leave-active,
+.slide-right-enter-active,
+.slide-right-leave-active {
+  transition: all 0.7s ease;
+}
+
+/* slide-right */
+.slide-right-enter-to {
+  position: absolute;
+  right: 0;
+}
+
+.slide-right-enter-from {
+  position: absolute;
+  right: -100%;
+}
+.slide-right-leave-to {
+  position: absolute;
+  left: -100%;
+}
+
+.slide-right-leave-from {
+  position: absolute;
+  left: 0;
+}
+
+/* slide-left */
+.slide-left-enter-to {
+  position: absolute;
+  left: 0;
+}
+
+.slide-left-enter-from {
+  position: absolute;
+  left: -100%;
+}
+.slide-left-leave-to {
+  position: absolute;
+  right: -100%;
+}
+
+.slide-left-leave-from {
+  position: absolute;
+  right: 0;
+}
+
+.menu-enter-active,
+.menu-leave-active,
+.slide-down-enter-active,
+.slide-down-leave-active,
+.fade-enter-active,
+.fade-leave-active {
+  transition: 0.4s ease;
+}
+
+.menu-enter-to,
+.menu-leave-from {
+  left: 0;
+}
+
+.menu-enter-from,
+.menu-leave-to {
+  left: -320px;
+}
+
+.fade-enter-to,
+.fade-leave-from {
+  opacity: 1;
+}
+.fade-enter-from,
+.fade-leave-to {
+  opacity: 0;
+}
+
+.slide-down-enter-to,
+.slide-down-leave-from {
+  top: 50%;
+  opacity: 1;
+}
+
+.slide-down-enter-from,
+.slide-down-leave-to {
+  top: 0;
+  opacity: 0;
+}
+
+.products {
+  @apply grid gap-6;
+  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+}
